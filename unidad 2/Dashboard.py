@@ -24,6 +24,7 @@ def mostrar_menu():
         '3': 'programacion-orientada-a-objetos/ unidad 1/semana 2.py',
         '4': 'programacion-orientada-a-objetos/ unidad 2/semana 5.py',
         '5': 'programacion-orientada-a-objetos/ unidad 2/semana 6.py',
+        '6': 'programacion-orientada-a-objetos/ unidad 2/semana 10 manipulacion de archivos.py',
         # Agrega aquí el resto de las rutas de los scripts
     }
 
@@ -46,5 +47,5 @@ def mostrar_menu():
 
 
 # Ejecutar el dashboard
-if __name__ == "__main__":
-    mostrar_menu()
+    if __name__ == "__main__":
+ mostrar_menu()
