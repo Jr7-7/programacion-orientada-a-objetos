@@ -14,6 +14,7 @@ class Producto:
     def obtener_nombre(self):
         return self.nombre
 
+
     def establecer_nombre(self, nombre):
         self.nombre = nombre
 
